@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;  
+}
+.card{
+    background-color: white;
+    border-color: grey;
+}
+.a{
+    border-right: 2px solid rgb(128, 128, 128);
+    padding:0px 20px 0px ;
+    font-size: 12px;
+}
+.participates{
+    border-bottom: 1px solid gray;
+}
